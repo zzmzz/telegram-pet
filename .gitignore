@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
+*.session
+config.toml
+telegram_pet_session.*
+.DS_Store

@@ -1,0 +1,15 @@
+[telegram]
+# 从 https://my.telegram.org/apps 获取
+api_id = 12345
+api_hash = "your_api_hash_here"
+phone = "+86xxxxxxxxxxx"
+# 你的 bot 的用户名（不带 @）
+bot_username = "your_bot_username"
+
+[pet]
+# 宠物窗口大小
+size = 120
+# 气泡最大宽度
+bubble_max_width = 300
+# 气泡显示时间（秒）
+bubble_timeout = 15
